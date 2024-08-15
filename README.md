@@ -57,6 +57,14 @@ Boston Dynamics goes over every one of these steps to insure that their robots a
 ## Boston Dynamics is currently the leader in the robotics industry.
 
 
+Sources:<br/>
+https://bostondynamics.com/blog/starting-on-the-right-foot-with-reinforcement-learning/<br/>
+https://techstory.in/the-boston-dynamics-story/<br/>
+https://en.wikipedia.org/wiki/Boston_Dynamics#History<br/>
+https://www.robotics247.com/article/boston_dynamics_ceo_discusses_path_commercializing_robots<br/>
+https://www.linkedin.com/advice/3/how-can-you-track-performance-metrics-robotics-skills-robotics-eliaf
+
+
 
 
 

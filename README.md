@@ -56,6 +56,12 @@ Boston Dynamics goes over every one of these steps to insure that their robots a
 
 ## Boston Dynamics is currently the leader in the robotics industry.
 
+**Recommendations:**
+
+I think that the company could offer maybe smaller products to consumers. Less expensive robots or something similair.<br/>
+I think that by offering such products like smaller and less expensive they could expand not only to the commerical industy but also to maybe smaller businesses or to regular people.<br/>
+I believe that with expanding to non commericial use could have smaller robotics that the regular consumor or household individuals could use on a daily basis.<br/>
+
 
 Sources:<br/>
 https://bostondynamics.com/blog/starting-on-the-right-foot-with-reinforcement-learning/<br/>
